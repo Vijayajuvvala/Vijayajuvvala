@@ -1,7 +1,11 @@
-# Hi there, I'm Vijaya Juvvala! 👋
+![Header Animation](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=250&section=header&text=Vijaya%20Lakshmi%20Juvvala&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20AI&descAlignY=55&descAlign=50)
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vijaya%20Juvvala-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vijaya-juvvala/)
 [![Gmail](https://img.shields.io/badge/Email-vijayajuvvala25%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:vijayajuvvala25@gmail.com)
+
+</div>
 
 I am a **Data Science Graduate Student** at the **University of Massachusetts Dartmouth** with over 5 years of professional experience as a Systems Engineer and Developer at **Tata Consultancy Services (TCS)**. I am passionate about leveraging Machine Learning, AI, and Data Analytics to solve real-world problems.
 
