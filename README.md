@@ -1,4 +1,4 @@
-# Hi there, I'm Vijaya Lakshmi Juvvala! 👋
+# Hi there, I'm Vijaya Juvvala! 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vijaya%20Juvvala-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vijaya-juvvala/)
 [![Gmail](https://img.shields.io/badge/Email-vijayajuvvala25%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:vijayajuvvala25@gmail.com)
